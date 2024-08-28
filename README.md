@@ -33,7 +33,7 @@
   <a href="mailto:rachid.developer7@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/100/new-post.png" alt="Email" title="Email" width="40" height="40">
   </a>
-  <a href="www.linkedin.com/in/rachid-a-66a356204" target="_blank">
+  <a href="https://www.linkedin.com/in/rachid-a-66a356204/" target="_blank">
     <img src="https://img.icons8.com/fluency/100/linkedin.png" alt="LinkedIn" title="LinkedIn" width="40" height="40">
   </a>
   <a href="" target="_blank">
