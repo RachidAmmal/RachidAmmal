@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://art.pixilart.com/sr2712ab0b35ecd.gif" alt="Animated Icon" width="150" height="150">
 </p>
-<h2 align="center">I'm Rachid 3amml</h2>
+<h2 align="center">I'm Rachid 3ammal</h2>
 <h3 align="center">Web Developer. | Hydraulic Engineer.</h3>
 
 
