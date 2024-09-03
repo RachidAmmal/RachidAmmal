@@ -9,7 +9,7 @@
 
 ---
 
-<p align="center">Welcome to my GitHub profile! I'm Rqchid, a Hydraulic engineer zith strong passion for web development . I have a diverse skill set that includes:</p>
+<p align="center">Welcome to my GitHub profile! I'm Rachid, a Hydraulic engineer with strong passion for web development . I have a diverse skill set that includes:</p>
 
 <p align="center">
   <img src="https://img.icons8.com/fluency/100/html-5.png" alt="HTML" title="HTML" width="50" height="50">
