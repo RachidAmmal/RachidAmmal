@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/rachid-a-66a356204/" target="_blank">
     <img src="https://img.icons8.com/fluency/100/linkedin.png" alt="LinkedIn" title="LinkedIn" width="40" height="40">
   </a>
-  <a href="" target="_blank">
+  <a href="https://rachidammal.github.io/my-portfolio/" target="_blank">
     <img src="https://img.icons8.com/fluency/100/domain.png" alt="Website" title="Website" width="40" height="40">
   </a>
   <a href="" target="_blank">     
